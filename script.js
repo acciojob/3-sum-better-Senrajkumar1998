@@ -1,6 +1,6 @@
 function threeSum(arr, target) {
 // write your code here
-	let arr={-1 2 1 -4}
+	let arr={-1 2 1 -4};
 let target=1;
 	let n=arr.length;
 	let initialDiff=Infinity;
